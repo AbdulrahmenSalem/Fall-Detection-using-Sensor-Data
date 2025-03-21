@@ -53,17 +53,6 @@ The model is trained using the following steps:
 
 * Training Loop: The model is trained for a specified number of epochs, and the best model is saved based on validation loss.
 
-# Evaluation
-The model is evaluated on the test set using the following metrics:
-
-* Accuracy: The proportion of correctly classified samples.
-
-* Precision: The proportion of true positives (correctly detected falls) among the predicted positives.
-
-* Recall: The proportion of true positives among the actual positives (all actual falls).
-
-* F1-Score: The harmonic mean of precision and recall.
-
 # Results
 The model achieves the following performance on the test set:
 
