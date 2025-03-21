@@ -37,6 +37,7 @@ The model used in this project is a 1D Convolutional Neural Network (CNN) with r
 * Global Average Pooling: A global average pooling layer to reduce the spatial dimensions.
 
 * Fully Connected Layers: Two fully connected layers with dropout, followed by a final output layer with a sigmoid activation function for binary classification (fall or no fall).
+  
 ![model_architecture (1)](https://github.com/user-attachments/assets/c61f6dc4-33f5-4dec-8678-6f6d1cc51b1a)
 
   
